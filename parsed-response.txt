@@ -1,0 +1,12 @@
+[
+    {
+        "Listeners": [
+            "arn:aws:elasticloadbalancing:us-east-1:893303536914:listener/app/test-lb/1f6663d67ffeaa13/bd0a7641612001ae", 
+            "arn:aws:elasticloadbalancing:us-east-1:893303536914:listener/app/test-lb/1f6663d67ffeaa13/def52be472c587eb"
+        ], 
+        "LoadBalancerArn": "arn:aws:elasticloadbalancing:us-east-1:893303536914:loadbalancer/app/test-lb/1f6663d67ffeaa13", 
+        "TargetGroups": [
+            "arn:aws:elasticloadbalancing:us-east-1:893303536914:targetgroup/http-target/8a3453cd783617b7"
+        ]
+    }
+]
